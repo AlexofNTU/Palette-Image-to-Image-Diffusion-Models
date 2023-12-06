@@ -1,4 +1,5 @@
-# Alex: GroupNorm() is replaced by BatchNorm2d() for preventing color-shift issue, 2023/08/22 
+# Alex: 
+GroupNorm() is replaced by BatchNorm2d() for preventing color-shift issue, 2023/08/22 
 
 
 # Palette: Image-to-Image Diffusion Models
